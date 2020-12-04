@@ -8,6 +8,6 @@ Files created
 
 Updated website screenshots
 
-![Screenshot of website 1](/images/schsot1)
-![Screenshot of website 2](/images/schsot2)
-![Screenshot of website 3](/images/schsot3)
+![Screenshot of website 1](/images/schsot1.png)
+![Screenshot of website 2](/images/schsot2.png)
+![Screenshot of website 3](/images/schsot3.png)
