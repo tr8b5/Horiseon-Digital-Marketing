@@ -8,6 +8,6 @@ Files created
 
 Updated website screenshots
 
-<img src="https://github.com/tr8b5/horiseon-digital-marketing/blob/main/schsot1.png?raw=true">
-<img src="images/schsot2">
-<img src="images/schsot3">
+![Screenshot of website 1](https://github.com/tr8b5/horiseon-digital-marketing/blob/master/schsot1.png?raw=true)
+![Screenshot of website 2](https://github.com/tr8b5/horiseon-digital-marketing/blob/master/schsot1.png?raw=true)
+![Screenshot of website 3](https://github.com/tr8b5/horiseon-digital-marketing/blob/master/schsot1.png?raw=true)
